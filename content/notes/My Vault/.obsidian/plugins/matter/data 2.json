@@ -1,0 +1,11 @@
+{
+  "accessToken": null,
+  "refreshToken": null,
+  "qrSessionToken": "ba2b195255c649fbce23e5d03d4c41875a430dc31ad986847371dd4172afd1f0",
+  "dataDir": "/",
+  "syncInterval": 60,
+  "hasCompletedInitialSetup": false,
+  "lastSync": null,
+  "isSyncing": false,
+  "contentMap": {}
+}

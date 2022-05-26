@@ -1,0 +1,19 @@
+{
+  "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjUyODkyNDY5LCJqdGkiOiI1YjU1Y2E1NmY5ODM0NTFkYTUyMzk2MzgwY2NjNzRhMiIsInVzZXJfaWQiOjU4NjQsImNsaWVudF90eXBlIjoiaW50ZWdyYXRpb24iLCJsb2dpbl9zZXNzaW9uX2lkIjoiZjJkMzJjNjMtNGM2Zi00MzNmLTk3YmMtYmZjNDU1YWQ0ZGMxIn0.eJpwh0oAwijji1wF15bd1Xn6VBd2RaZWeF3giDKMxOo",
+  "refreshToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY1OTk3NzI2OSwianRpIjoiYjM5MmVhYTUxOTVhNGQzM2IyZDZmY2ZhODQ4YjQzOWIiLCJ1c2VyX2lkIjo1ODY0LCJjbGllbnRfdHlwZSI6ImludGVncmF0aW9uIiwibG9naW5fc2Vzc2lvbl9pZCI6ImYyZDMyYzYzLTRjNmYtNDMzZi05N2JjLWJmYzQ1NWFkNGRjMSJ9.OXdc8H1hTpc8GkWVb80Zb_UwnOh_0iDOlfhXnySxqOI",
+  "qrSessionToken": "673b01342119ca955bb46758f79abee869af91eb772cef2fe6bb9861c2db5fa7",
+  "dataDir": "400-🗃️ Archive/408-Matter",
+  "syncInterval": 30,
+  "hasCompletedInitialSetup": true,
+  "lastSync": "2022-05-10T16:49:35.632Z",
+  "isSyncing": false,
+  "contentMap": {
+    "A Better Way to Think About Conspiracies.md": "4_174610",
+    "The Life of a Backpacker in Asia in the 1970s.md": "4_58123",
+    "耗尽红利后雪崩，Netflix 得了「空心病」.md": "4_4489951",
+    "On Twitter, Briefly.md": "4_4056874",
+    "推特到底是怎么被买下来的？--跟马斯克学公司并购实战 ｜ 少数派会员 π+Prime.md": "4_4179157",
+    "What’s Going On With Variant Names Again-.md": "4_3517113",
+    "How credit cards make money.md": "4_797738"
+  }
+}

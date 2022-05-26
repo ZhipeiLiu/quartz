@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "1c5cf4612d30ed1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ce7b05c0b734dce",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "300-📚 Resource/Note Taking/Obsidian YAML Syntax.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d974e11d423355c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e7d2bd374fcf6c2",
+        "type": "tabs",
+        "dimension": 66.21067031463748,
+        "children": [
+          {
+            "id": "2629c3de48eed662",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8a336667b070a792",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#mychecklist/tolearn",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8e410a87fe0753b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6904be3c898f037b",
+        "type": "tabs",
+        "dimension": 33.78932968536252,
+        "children": [
+          {
+            "id": "a84e714ec3f6576f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "40954837ca833b9f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239.99999809265137
+  },
+  "right": {
+    "id": "19c0c5ff4cb60d12",
+    "type": "split",
+    "children": [
+      {
+        "id": "622854057cd9101b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97ece8831766cde6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "300-📚 Resource/Note Taking/Obsidian YAML Syntax.md"
+              }
+            }
+          },
+          {
+            "id": "e932ffba7b76d91f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "55fb31af42e48537",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4eb72b8e377bc86f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "300-📚 Resource/Note Taking/Obsidian YAML Syntax.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7b319683e8c788a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "300-📚 Resource/Note Taking/Obsidian YAML Syntax.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c25dbd02ba7d0bfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfe25b6580fb649d",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "9019d2a1863b4123",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.4285888671875
+  },
+  "active": "7ce7b05c0b734dce",
+  "lastOpenFiles": [
+    "300-📚 Resource/Note Taking/Obsidian YAML Syntax.md",
+    "400-🗃️ Archive/401-Diary/0000 Diary Template.md",
+    "400-🗃️ Archive/401-Diary/2022-05-06-星期五.md",
+    "000-📇 Index/202006141414 Permanent note index.md",
+    "@Inbox📥/PARA方法.md",
+    "400-🗃️ Archive/404-Courses/202007072257 GRE Master.md",
+    "400-🗃️ Archive/402-One-On-One/202007092219 Call with Andrew Malley.md",
+    "300-📚 Resource/Github Projects.md",
+    "300-📚 Resource/巫师财经文章.md",
+    "400-🗃️ Archive/404-Courses/Lynda - Financial Modeling Notes.md"
+  ]
+}

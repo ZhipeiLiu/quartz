@@ -1,0 +1,14 @@
+{
+  "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjUyNzIwMTMyLCJqdGkiOiJkYTkzYjk1YWMyNzY0OGNhYjgyODk2YzJkMTUxNjNlOCIsInVzZXJfaWQiOjU4NjQsImNsaWVudF90eXBlIjoiaW50ZWdyYXRpb24iLCJsb2dpbl9zZXNzaW9uX2lkIjoiNjE0YWU3NWItZjBlMy00ODkxLTg3MDEtMDI5ODMzOGQ5MzU3In0.X1LHte160oMUGBpViF5FsIrEvP3RRpl6JWPPFAnJCHc",
+  "refreshToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY1OTgwNDkzMiwianRpIjoiZjE1NjA1ZDliNmNmNDc1MjkwZDcwYzYxZmRmOTliZGIiLCJ1c2VyX2lkIjo1ODY0LCJjbGllbnRfdHlwZSI6ImludGVncmF0aW9uIiwibG9naW5fc2Vzc2lvbl9pZCI6IjYxNGFlNzViLWYwZTMtNDg5MS04NzAxLTAyOTgzMzhkOTM1NyJ9.3CB80s2K9dKEmhe1VtPRbUL-FeHIamNLyyTVC0w67J4",
+  "qrSessionToken": "31b21013fed9430392811b99c104b68ed58aa92b173d2fd7ed65c3fd3fd2eef9",
+  "dataDir": "400-🗃️ Archive/408-Matter",
+  "syncInterval": 60,
+  "hasCompletedInitialSetup": true,
+  "lastSync": "2022-05-08T16:55:31.127Z",
+  "isSyncing": false,
+  "contentMap": {
+    "A Better Way to Think About Conspiracies.md": "4_174610",
+    "The Life of a Backpacker in Asia in the 1970s.md": "4_58123"
+  }
+}

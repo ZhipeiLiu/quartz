@@ -1,0 +1,40 @@
+{
+  "choices": [
+    {
+      "id": "90d8e759-694d-43b6-9075-45223fff2cea",
+      "name": "Fleeting Note",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "400-🗃️ Archive/401-Diary/{{DATE:YYYY-MM-DD-dddd}}",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "Template/TP-Diary Template.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": "```js quickadd\nlet text = await this.quickAddApi.utility.getClipboard();\ntext = await this.quickAddApi.inputPrompt(\"✍添加灵感笔记\", \"输入内容\", text);\ntext = text.replace(\"\\n\", \"<br>\");\nreturn text;\n```"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "## Fleeting Notes",
+        "insertAtEnd": true,
+        "createIfNotFound": true,
+        "createIfNotFoundLocation": "bottom"
+      },
+      "prepend": true,
+      "task": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "source"
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line"
+}

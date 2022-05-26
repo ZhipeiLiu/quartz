@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "1c5cf4612d30ed1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdb49abe96dfd59a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "@Inbox📥/Publish.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "0d1d4092f3a52c39",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "200-📖 Area/205-Thoughts/Ladder of Inference.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "770a460e4758f969",
+    "type": "split",
+    "children": [
+      {
+        "id": "d490ffe478c60084",
+        "type": "tabs",
+        "dimension": 72.48968363136176,
+        "children": [
+          {
+            "id": "5b598d02e7b00577",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6987c172652f3cfd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "esther",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "188e5b9013d64339",
+        "type": "tabs",
+        "dimension": 27.510316368638243,
+        "children": [
+          {
+            "id": "36fb61364d0bc4d2",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "b1b34f3ac1fdadb9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 195.1428575515747
+  },
+  "right": {
+    "id": "e1f532e4232256db",
+    "type": "split",
+    "children": [
+      {
+        "id": "a612fbcd277361aa",
+        "type": "tabs",
+        "dimension": 49.24346629986245,
+        "children": [
+          {
+            "id": "fbd36a875fe79aa4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "@Inbox📥/Publish.md"
+              }
+            }
+          },
+          {
+            "id": "0c75992b8c31f2c6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2518029d436aa22b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "@Inbox📥/Publish.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d63cd7ced3d9a726",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "@Inbox📥/Publish.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "a6e8f90fc9f7698d",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb76df289535c8c1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "868056126eddb173",
+        "type": "tabs",
+        "dimension": 50.75653370013755,
+        "children": [
+          {
+            "id": "df9f7c16c95eaca3",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "420b5b5f244b8130",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "d00dda216e42edb5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 207.42857360839844
+  },
+  "active": "cdb49abe96dfd59a",
+  "lastOpenFiles": [
+    "@Inbox📥/Publish.md",
+    "@Inbox📥/QUERY-No Tag Notes.md",
+    "200-📖 Area/205-Thoughts/Thinking Tools.md",
+    "200-📖 Area/205-Thoughts/Inversion.md",
+    "200-📖 Area/205-Thoughts/Ladder of Inference.md",
+    "@Inbox📥/Pasted image 20220506202644.png.md",
+    "400-🗃️ Archive/403-Interview/德勤面试.md",
+    "@Inbox📥/QUERY-Orphan Notes.md",
+    "400-🗃️ Archive/402-MeetingNotes/20200831 嘉裕家族办公室面试.md",
+    "200-📖 Area/203-Supply/Pet Food Quality.md"
+  ]
+}

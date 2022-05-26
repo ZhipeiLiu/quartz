@@ -1,0 +1,194 @@
+{
+  "workspaces": {
+    "Standard": {
+      "main": {
+        "id": "1c5cf4612d30ed1d",
+        "type": "split",
+        "children": [
+          {
+            "id": "3bb686ade868f460",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "400-🗃️ Archive/401-Diary/2022-05-12-星期四.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "770a460e4758f969",
+        "type": "split",
+        "children": [
+          {
+            "id": "d490ffe478c60084",
+            "type": "tabs",
+            "dimension": 72.48968363136176,
+            "children": [
+              {
+                "id": "5b598d02e7b00577",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6987c172652f3cfd",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "parochial",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "188e5b9013d64339",
+            "type": "tabs",
+            "dimension": 27.510316368638243,
+            "children": [
+              {
+                "id": "36fb61364d0bc4d2",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b1b34f3ac1fdadb9",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 173.99999809265137
+      },
+      "right": {
+        "id": "e1f532e4232256db",
+        "type": "split",
+        "children": [
+          {
+            "id": "a612fbcd277361aa",
+            "type": "tabs",
+            "dimension": 49.24346629986245,
+            "children": [
+              {
+                "id": "fbd36a875fe79aa4",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "400-🗃️ Archive/401-Diary/2022-05-12-星期四.md"
+                  }
+                }
+              },
+              {
+                "id": "0c75992b8c31f2c6",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "2518029d436aa22b",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "400-🗃️ Archive/401-Diary/2022-05-12-星期四.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "d63cd7ced3d9a726",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "400-🗃️ Archive/401-Diary/2022-05-12-星期四.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "6f5a418f1164980e",
+                "type": "leaf",
+                "state": {
+                  "type": "graph-analysis",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "868056126eddb173",
+            "type": "tabs",
+            "dimension": 50.75653370013755,
+            "children": [
+              {
+                "id": "df9f7c16c95eaca3",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "420b5b5f244b8130",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d00dda216e42edb5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 211.42857360839844
+      },
+      "active": "3bb686ade868f460"
+    }
+  },
+  "active": "Standard"
+}

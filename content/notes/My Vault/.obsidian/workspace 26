@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "f7bf86b02a886aee",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1b77dad6668c7fc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Johnny Wu.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "147dd374f8bc5676",
+    "type": "split",
+    "children": [
+      {
+        "id": "5886d5aca5d2ba5f",
+        "type": "tabs",
+        "dimension": 71.31147540983606,
+        "children": [
+          {
+            "id": "b4214922e2e4e069",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3e0e78ae4579bf97",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6948cf8b3cb76d28",
+        "type": "tabs",
+        "dimension": 28.688524590163933,
+        "children": [
+          {
+            "id": "40edc5260510e50a",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "7f58124ee5c2cdf3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.99999809265137
+  },
+  "right": {
+    "id": "79af02ee3136f060",
+    "type": "split",
+    "children": [
+      {
+        "id": "b730a5754f05ccd2",
+        "type": "tabs",
+        "dimension": 53.551912568306015,
+        "children": [
+          {
+            "id": "e8ba989ac75ab47e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Johnny Wu.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "54b1f3bb75a64c4b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Johnny Wu.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "052de60088752082",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1dab740a19d7edbe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Johnny Wu.md"
+              }
+            }
+          },
+          {
+            "id": "551237b22e29b90e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "2279ed2dba258a32",
+        "type": "tabs",
+        "dimension": 46.44808743169399,
+        "children": [
+          {
+            "id": "2eedf8860ae45f2e",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "39c5cf5548b92400",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "b1b77dad6668c7fc",
+  "lastOpenFiles": [
+    "Johnny Wu.md",
+    "300-📚 Resource/Note Taking/Obsidian YAML Syntax.md",
+    "300-📚 Resource/Note Taking/202006141414 Zettelkasten Principles.md",
+    "400-🗃️ Archive/401-Diary/2022-05-07-星期六.md",
+    "400-🗃️ Archive/401-Diary/0000 Diary Template.md",
+    "400-🗃️ Archive/401-Diary/2022-05-06-星期五.md",
+    "400-🗃️ Archive/401-Diary/2022-05-06-星期五 2.md"
+  ]
+}

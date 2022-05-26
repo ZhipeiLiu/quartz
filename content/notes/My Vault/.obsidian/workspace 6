@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "a37280118340e77d",
+    "type": "split",
+    "children": [
+      {
+        "id": "365c1464e59864e1",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3b4a394cd024166",
+    "type": "split",
+    "children": [
+      {
+        "id": "271083be0c17abc8",
+        "type": "tabs",
+        "dimension": 72.6775956284153,
+        "children": [
+          {
+            "id": "d8273f58cd9c37e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d6091f8aea1d3227",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8f4ea8d7bc87554d",
+        "type": "tabs",
+        "dimension": 27.322404371584703,
+        "children": [
+          {
+            "id": "2286395e7ed91c06",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "40ab6679514ab4a8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 213.99999809265137
+  },
+  "right": {
+    "id": "e7d44791099d32cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b05312fb7165b95d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9973e44016fcd8a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f092e9f38ffb0625",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d6323edd09509996",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "8bb0165d517e8fef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a5341c9a689bf8b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d6e6dd61a2f96d1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9670a91a665ab8c",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 218.42857360839844
+  },
+  "active": "365c1464e59864e1",
+  "lastOpenFiles": [
+    "202007060057 植物肉市场研报.md"
+  ]
+}

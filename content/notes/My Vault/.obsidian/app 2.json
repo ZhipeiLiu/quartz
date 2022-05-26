@@ -1,0 +1,10 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "alwaysUpdateLinks": true,
+  "communityPluginSortOrder": "download",
+  "promptDelete": false,
+  "attachmentFolderPath": "Attachment",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "@Inbox"
+}

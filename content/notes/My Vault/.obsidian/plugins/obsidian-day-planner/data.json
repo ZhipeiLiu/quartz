@@ -1,0 +1,68 @@
+{
+  "customFolder": "Day Planners",
+  "mode": 1,
+  "mermaid": true,
+  "notesToDates": [
+    {
+      "notePath": "400-🗃️ Archive/401-Diary/2022-05-06-星期五.md",
+      "date": "Fri May 06 2022"
+    },
+    {
+      "notePath": "400-🗃️ Archive/401-Diary/2022-05-07-星期六.md",
+      "date": "Sat May 07 2022"
+    },
+    {
+      "notePath": "400-🗃️ Archive/401-Diary/2022-05-08-星期日.md",
+      "date": "Sun May 08 2022"
+    },
+    {
+      "notePath": "400-🗃️ Archive/401-Diary/2022-05-09-星期一.md",
+      "date": "Mon May 09 2022"
+    },
+    {
+      "notePath": "400-🗃️ Archive/401-Diary/2022-05-10-星期二.md",
+      "date": "Tue May 10 2022"
+    },
+    {
+      "notePath": "400-🗃️ Archive/401-Diary/2022-05-11-星期三.md",
+      "date": "Wed May 11 2022"
+    },
+    {
+      "notePath": "400-🗃️ Archive/401-Diary/2022-05-12-星期四.md",
+      "date": "Thu May 12 2022"
+    },
+    {
+      "notePath": "400-🗃️ Archive/401-Diary/2022-05-13-星期五.md",
+      "date": "Fri May 13 2022"
+    },
+    {
+      "notePath": "400-🗃️ Archive/401-Diary/2022-05-16-星期一.md",
+      "date": "Mon May 16 2022"
+    },
+    {
+      "notePath": "400-🗃️ Archive/401-Diary/2022-05-18-星期三.md",
+      "date": "Wed May 18 2022"
+    },
+    {
+      "notePath": "400-🗃️ Archive/401-Diary/2022-05-19-星期四.md",
+      "date": "Thu May 19 2022"
+    },
+    {
+      "notePath": "400-🗃️ Archive/401-Diary/2022-05-20-星期五.md",
+      "date": "Fri May 20 2022"
+    },
+    {
+      "notePath": "400-🗃️ Archive/401-Diary/2022-05-23-星期一.md",
+      "date": "Mon May 23 2022"
+    },
+    {
+      "notePath": "400-🗃️ Archive/401-Diary/2022-05-24-星期二.md",
+      "date": "Tue May 24 2022"
+    }
+  ],
+  "completePastItems": false,
+  "circularProgress": false,
+  "nowAndNextInStatusBar": true,
+  "showTaskNotification": true,
+  "timelineZoomLevel": 1
+}

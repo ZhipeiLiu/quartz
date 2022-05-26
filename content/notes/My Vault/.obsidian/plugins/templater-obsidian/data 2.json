@@ -1,0 +1,37 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Template",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "400-🗃️ Archive/402-One-On-One",
+      "template": "Template/TP-OneOnOne Note.md"
+    },
+    {
+      "folder": "400-🗃️ Archive/401-Diary",
+      "template": "Template/TP-Diary Template.md"
+    },
+    {
+      "folder": "/",
+      "template": "Template/TP-General.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ]
+}

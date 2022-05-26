@@ -1,0 +1,11 @@
+{
+  "accessToken": null,
+  "refreshToken": null,
+  "qrSessionToken": null,
+  "dataDir": "Matter",
+  "syncInterval": 60,
+  "hasCompletedInitialSetup": false,
+  "lastSync": null,
+  "isSyncing": false,
+  "contentMap": {}
+}

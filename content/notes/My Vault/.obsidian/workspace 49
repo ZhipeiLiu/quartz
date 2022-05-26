@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "d740326b7fed9db6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e7b57389508d006",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "@Inbox📥/创作者经济.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66034848e7bf3a83",
+    "type": "split",
+    "children": [
+      {
+        "id": "ada45b8bb919a871",
+        "type": "tabs",
+        "dimension": 72.6775956284153,
+        "children": [
+          {
+            "id": "18671d49717b8395",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "46a434bc9f2b447e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "idea",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a6a4b8cbca6ef895",
+        "type": "tabs",
+        "dimension": 27.322404371584703,
+        "children": [
+          {
+            "id": "46260ba7c39b15d0",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "32ac16795686ba20",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0aae0185843a2672",
+    "type": "split",
+    "children": [
+      {
+        "id": "91e6820f5ace67af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e750e2fe36c1c62f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a64ce3cfa06db03",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "@Inbox📥/创作者经济.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c81e931397c84c6d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "@Inbox📥/创作者经济.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "491f582e4bb4f4f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "@Inbox📥/创作者经济.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "18bb911fd91bf766",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e6d3b37f83253a0",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "1f5c0083df9e1226",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "84b706bd1745b8db",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 274.4285888671875
+  },
+  "active": "4e7b57389508d006",
+  "lastOpenFiles": [
+    "@Inbox📥/创作者经济.md",
+    "400-🗃️ Archive/401-Diary/2022-05-07-星期六.md",
+    "400-🗃️ Archive/401-Diary/{{YYYY-MM-DD-dddd}}.md",
+    "Template/TP-General.md",
+    "@Inbox📥/test.md",
+    "Template/TP-Diary Template.md",
+    "@Inbox📥/test.md",
+    "@Inbox📥/未命名.md",
+    "@Inbox📥/QUERY-Orphan Notes.md",
+    "@Inbox📥/QUERY-No Tag Notes.md"
+  ]
+}
